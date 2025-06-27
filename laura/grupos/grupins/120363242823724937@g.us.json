@@ -1,0 +1,83 @@
+[
+  {
+    "name": "★¸.•☆•.¸★ 🅃🅁🄾🄿🄰 🄳🄰 🄰🄼🄸🅉🄰🄳🄴 ★⡀.•☆•.★",
+    "groupId": "120363242823724937@g.us",
+    "x9": false,
+    "gpVip": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antiaudio2": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilink": false,
+    "antilinkhard": false,
+    "antilinkhard2": false,
+    "antifake": false,
+    "antiporn": false,
+    "antiporn2": false,
+    "aposta1": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "legenda_estrangeiro": "O robô de segurança está vigilante! Seu número parece suspeito. Tchau, tchau amorzinho! 😘",
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "trolarAmg": {
+      "active": false,
+      "numeros": []
+    },
+    "trolarAmg2": {
+      "active": false,
+      "fala": "ola bom dia",
+      "numeros": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá %numero%, seja bem-vindo a sua nova casa🥰",
+        "legendasaiu": null
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá %numero%, seja bem-vindo a sua nova casa🥰",
+        "legendasaiu": null
+      }
+    ],
+    "gpt": false,
+    "simi": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

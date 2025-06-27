@@ -1,0 +1,458 @@
+[
+  {
+    "id": "559185841876@s.whatsapp.net",
+    "word_original": "venus",
+    "word": "venus",
+    "under_word": "-----",
+    "array_word": [
+      "v",
+      "e",
+      "n",
+      "u",
+      "s"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 5,
+    "attempts": 6
+  },
+  {
+    "id": "5524992755713@s.whatsapp.net",
+    "word_original": "limao",
+    "word": "lim0o",
+    "under_word": "-----",
+    "array_word": [
+      "l",
+      "i",
+      "m",
+      0,
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "a",
+      "-"
+    ],
+    "tam": 5,
+    "attempts": 3
+  },
+  {
+    "id": "558183036986@s.whatsapp.net",
+    "word_original": "prescricao",
+    "word": "prescric0o",
+    "under_word": "----------",
+    "array_word": [
+      "p",
+      "r",
+      "e",
+      "s",
+      "c",
+      "r",
+      "i",
+      "c",
+      0,
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "a",
+      "-"
+    ],
+    "tam": 10,
+    "attempts": 5
+  },
+  {
+    "id": "557197228880@s.whatsapp.net",
+    "word_original": "gemido",
+    "word": "g0m0d0",
+    "under_word": "------",
+    "array_word": [
+      "g",
+      0,
+      "m",
+      0,
+      "d",
+      0
+    ],
+    "array_under_word": [
+      "-",
+      "e",
+      "-",
+      "i",
+      "-",
+      "o"
+    ],
+    "tam": 6,
+    "attempts": 2
+  },
+  {
+    "id": "558287187515@s.whatsapp.net",
+    "word_original": "zangado",
+    "word": "z0ng0do",
+    "under_word": "-------",
+    "array_word": [
+      "z",
+      0,
+      "n",
+      "g",
+      0,
+      "d",
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "a",
+      "-",
+      "-",
+      "a",
+      "-",
+      "-"
+    ],
+    "tam": 7,
+    "attempts": 5
+  },
+  {
+    "id": "558288940387@s.whatsapp.net",
+    "word_original": "paz",
+    "word": "paz",
+    "under_word": "---",
+    "array_word": [
+      "p",
+      "a",
+      "z"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 3,
+    "attempts": 5
+  },
+  {
+    "id": "558291528737@s.whatsapp.net",
+    "word_original": "plugue",
+    "word": "plugu0",
+    "under_word": "------",
+    "array_word": [
+      "p",
+      "l",
+      "u",
+      "g",
+      "u",
+      0
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "e"
+    ],
+    "tam": 6,
+    "attempts": 4
+  },
+  {
+    "id": "558299843760@s.whatsapp.net",
+    "word_original": "girassol",
+    "word": "g000ss0l",
+    "under_word": "--------",
+    "array_word": [
+      "g",
+      0,
+      0,
+      0,
+      "s",
+      "s",
+      0,
+      "l"
+    ],
+    "array_under_word": [
+      "-",
+      "i",
+      "r",
+      "a",
+      "-",
+      "-",
+      "o",
+      "-"
+    ],
+    "tam": 8,
+    "attempts": 2
+  },
+  {
+    "id": "558288076701@s.whatsapp.net",
+    "word_original": "radiador",
+    "word": "radiador",
+    "under_word": "--------",
+    "array_word": [
+      "r",
+      "a",
+      "d",
+      "i",
+      "a",
+      "d",
+      "o",
+      "r"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 8,
+    "attempts": 6
+  },
+  {
+    "id": "558183057694@s.whatsapp.net",
+    "word_original": "spray",
+    "word": "0pr0y",
+    "under_word": "-----",
+    "array_word": [
+      0,
+      "p",
+      "r",
+      0,
+      "y"
+    ],
+    "array_under_word": [
+      "s",
+      "-",
+      "-",
+      "a",
+      "-"
+    ],
+    "tam": 5,
+    "attempts": 5
+  },
+  {
+    "id": "559484407770@s.whatsapp.net",
+    "word_original": "barril",
+    "word": "barril",
+    "under_word": "------",
+    "array_word": [
+      "b",
+      "a",
+      "r",
+      "r",
+      "i",
+      "l"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 6,
+    "attempts": 6
+  },
+  {
+    "id": "556192215157@s.whatsapp.net",
+    "word_original": "jogada",
+    "word": "jogada",
+    "under_word": "------",
+    "array_word": [
+      "j",
+      "o",
+      "g",
+      "a",
+      "d",
+      "a"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 6,
+    "attempts": 6
+  },
+  {
+    "id": "556199317165@s.whatsapp.net",
+    "word_original": "nogueira",
+    "word": "nogueir0",
+    "under_word": "--------",
+    "array_word": [
+      "n",
+      "o",
+      "g",
+      "u",
+      "e",
+      "i",
+      "r",
+      0
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "a"
+    ],
+    "tam": 8,
+    "attempts": 6
+  },
+  {
+    "id": "556584417717@s.whatsapp.net",
+    "word_original": "acordeao",
+    "word": "0cord00o",
+    "under_word": "--------",
+    "array_word": [
+      0,
+      "c",
+      "o",
+      "r",
+      "d",
+      0,
+      0,
+      "o"
+    ],
+    "array_under_word": [
+      "a",
+      "-",
+      "-",
+      "-",
+      "-",
+      "e",
+      "a",
+      "-"
+    ],
+    "tam": 8,
+    "attempts": 5
+  },
+  {
+    "id": "5524998172272@s.whatsapp.net",
+    "word_original": "banimento",
+    "word": "banimento",
+    "under_word": "---------",
+    "array_word": [
+      "b",
+      "a",
+      "n",
+      "i",
+      "m",
+      "e",
+      "n",
+      "t",
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 9,
+    "attempts": 6
+  },
+  {
+    "id": "5519971144821@s.whatsapp.net",
+    "word_original": "madona",
+    "word": "madona",
+    "under_word": "------",
+    "array_word": [
+      "m",
+      "a",
+      "d",
+      "o",
+      "n",
+      "a"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 6,
+    "attempts": 6
+  },
+  {
+    "id": "595982609369@s.whatsapp.net",
+    "word_original": "cuidado",
+    "word": "cuidado",
+    "under_word": "-------",
+    "array_word": [
+      "c",
+      "u",
+      "i",
+      "d",
+      "a",
+      "d",
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 7,
+    "attempts": 6
+  },
+  {
+    "id": "556191969269@s.whatsapp.net",
+    "word_original": "zangado",
+    "word": "zangado",
+    "under_word": "-------",
+    "array_word": [
+      "z",
+      "a",
+      "n",
+      "g",
+      "a",
+      "d",
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 7,
+    "attempts": 6
+  }
+]
