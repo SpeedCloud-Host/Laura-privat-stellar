@@ -10,7 +10,7 @@
 
 <p align="center">
   <img title="Autor" src="https://img.shields.io/badge/Criador-Pedrozz Mods-4B0082?style=for-the-badge&logo=github">
-  <img title="Versão" src="https://img.shields.io/badge/Versão-10.50.1-4B0082?style=for-the-badge&logo=github">
+  <img title="Versão" src="https://img.shields.io/badge/Versão-12.0.0-4B0082?style=for-the-badge&logo=github">
 </p>
 
 <div align="center">
