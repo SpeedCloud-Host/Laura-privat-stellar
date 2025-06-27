@@ -47,7 +47,7 @@ termux-setup-storage
 ```bash
 pkg upgrade -y && pkg update -y
 ```
-# Se pedir (Y/I/N/O/D/Z) [default=N], digite Y e pressione Enter.
+> Se pedir (Y/I/N/O/D/Z) [default=N], digite Y e pressione Enter.
 
 **3 - Instalar pacotes essenciais**
 ```bash
@@ -83,7 +83,7 @@ cd /sdcard/laura-privat-stellar && sh laura.sh
 
 ![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
 
-## ⚙️ Configuração
+## Configuração
 
 Edite o arquivo `dono/config.js` para personalizar o bot:
 
