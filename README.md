@@ -29,7 +29,7 @@
 
 ## 🚀 Instalação via Termux
 
-**1️⃣ Baixe o Termux**
+**1 - Baixe o Termux**
 > [Clique aqui para baixar o Termux](https://mega.nz/file/uglXFZaT#y6yCfop0vS-DY0cPC9SOInpEO-6tu3ks1xYk91Lj8RI)
 
 ![image](https://user-images.githubusercontent.com/51442719/149520330-b3bce735-5a57-481d-b122-fda4e2052cf8.png)
@@ -38,43 +38,43 @@
 
 > ⚠️ **Copie e execute um comando por vez. Espere cada um terminar!**
 
-# 1️⃣ Dar permissão de armazenamento
+**1 - Dar permissão de armazenamento**
 ```bash
 termux-setup-storage
 ```
 
-# 2️⃣ Atualizar pacotes
+**2 -  Atualizar pacotes**
 ```bash
 pkg upgrade -y && pkg update -y
 ```
 # Se pedir (Y/I/N/O/D/Z) [default=N], digite Y e pressione Enter.
 
-# 3️⃣ Instalar pacotes essenciais
+**3 - Instalar pacotes essenciais**
 ```bash
 pkg install -y
 ```
 
-# 4️⃣ Instalar Node.js
+**4 - Instalar Node.js**
 ```bash
 pkg install nodejs
 ```
 
-# 5️⃣ Instalar Yarn
+**5 - Instalar Yarn**
 ```bash
 pkg install yarn
 ```
 
-# 6️⃣ Instalar Git
+**6 - Instalar Git**
 ```bash
 pkg install git
 ```
 
-# 7️⃣ Clonar o projeto Laura Privat Stellar
+**7 - Clonar o projeto Laura Privat Stellar**
 ```bash
 cd /sdcard && git clone https://github.com/SpeedCloud-Host/Laura-privat-stellar.git
 ```
 
-# 8️⃣ Entrar na pasta e rodar o script de inicialização
+**8 - Entrar na pasta e rodar o script de inicialização**
 ```bash
 cd /sdcard/laura-privat-stellar && sh laura.sh
 ```
