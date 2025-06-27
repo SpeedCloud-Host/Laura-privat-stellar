@@ -38,44 +38,30 @@
 
 > ⚠️ **Copie e execute um comando por vez. Espere cada um terminar!**
 
-# 1️⃣ Dar permissão de armazenamento
 ```bash
+# 1️⃣ Dar permissão de armazenamento
 termux-setup-storage
-```
 
 # 2️⃣ Atualizar pacotes
-```bash
 pkg upgrade -y && pkg update -y
-```
 # Se pedir (Y/I/N/O/D/Z) [default=N], digite Y e pressione Enter.
 
 # 3️⃣ Instalar pacotes essenciais
-```bash
 pkg install -y
-```
 
 # 4️⃣ Instalar Node.js
-```bash
 pkg install nodejs
-```
 
 # 5️⃣ Instalar Yarn
-```bash
 pkg install yarn
-```
 
 # 6️⃣ Instalar Git
-```bash
 pkg install git
-```
 
 # 7️⃣ Clonar o projeto Laura Privat Stellar
-```bash
 cd /sdcard && git clone https://github.com/SpeedCloud-Host/Laura-privat-stellar.git
-```
 
 # 8️⃣ Entrar na pasta e rodar o script de inicialização
-```bash
 cd /sdcard/laura-privat-stellar && sh laura.sh
 ```
 
