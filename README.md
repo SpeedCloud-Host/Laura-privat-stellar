@@ -128,7 +128,7 @@ Para trocar para **login via QR-CODE**, altere:
 
 ## 👑 Criador
 
-> Bot criada por **Pedrozz Mods**, ativa há quase **2 anos** sem cair!  
+> Bot criada por **Pedrozz Mods**, ativa há **3 anos** sem cair!  
 >  [Meu WhatsApp](https://wa.me/556199317165)  
 >  [WhatsApp da Bot](https://wa.me/556191969269)
 
